@@ -1,0 +1,109 @@
+.card-container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 40px auto 100px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+  
+    .card {
+      text-align: center;
+      border-radius: 15px 15px 0px 0px;
+      background-color: $light-grey;
+      border-radius: 15px;
+      max-width: 320px;
+      padding-bottom: 10px;
+  
+      .cardText {
+        height: 90px;
+        padding-bottom: 20px;
+      }
+  
+      .name {
+        text-align: left;
+        padding: 8px 80px 5px 20px;
+        font-size: 30px;
+        font-weight: 600;
+        color: $white;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+  
+      .imgCard {
+        width: -webkit-fill-available;
+        border-radius: 15px 15px 0px 0px;
+        padding: 0;
+        margin: 0;
+        padding: 0;
+        border: 0;
+      }
+  
+      .cardDetail {
+        display: flex;
+        font-size: 14px;
+        color: $aqua;
+        padding-left: 20px;
+  
+        .specieDetail {
+          display: flex;
+          justify-content: left;
+          width: 120px;
+        }
+  
+        .specie {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+  
+        .space {
+          padding-left: 5px;
+          padding-right: 5px;
+        }
+  
+        .originDetail {
+          display: flex;
+        }
+  
+        .origin {
+          padding: 0px 10px 0px 10px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+  
+        .imgPin {
+          padding-left: 40px;
+          padding-top: 3px;
+          height: -webkit-fill-available;
+        }
+  
+        .status-circle {
+          width: 15px;
+          height: 15px;
+          border-radius: 50%;
+          display: inline-block;
+          margin-right: 5px;
+          border: $black;
+          flex-shrink: 0;
+  
+          &.alive-circle {
+            background-color: $light-green;
+            margin-top: 2px;
+            margin: 3px 10px 0px 0px;
+          }
+  
+          &.dead-circle {
+            background-color: $strong-red;
+            margin: 3px 10px 0px 0px;
+          }
+  
+          &.unknown-circle {
+            background-color: $white;
+            margin: 3px 10px 0px 0px;
+          }
+        }
+      }
+    }
+  }

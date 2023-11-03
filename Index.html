@@ -1,31 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./Index.css">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./Index.css">
 
-    <title>Technical Challenge</title>
-</head>
-<body>
-    <nav>
-        <img class="logo" src="./Assets/Logo.png" alt="Logo">
-        <div class="detailNav">
-            <a href="">Docs</a>
-            <a href="">About</a>
-            <a href="">Help</a>
+        <title>Technical Challenge</title>
+    </head>
+    <body>
+        <nav>
+            <img class="logo" src="./Assets/Logo.png" alt="Logo">
+            <div class="detailNav">
+                <a href="">Docs</a>
+                <a href="">About</a>
+                <a href="">Help</a>
+            </div>
+        </nav>
+        
+        <h1>Characters</h1>
+
+        <div  class="card-container" id="apiCards">
+            <!-- Cards are rendered here dynamically -->
         </div>
-    </nav>
-    
-    <h1>Characters</h1>
 
-    <div  class="card-container" id="apiCards"></div>
-    <button id="loadMore">Cargar más</button>
-    <div class="card-container" id="additionalCards">
-        <!-- Las tarjetas adicionales se agregarán aquí dinámicamente -->
-      </div>
-    
-    <script src="App.js"></script>
+        <div class="buttonContainer">
+            <button id="loadMore">Load more</button>
+        </div>
 
-</body>
+        <div class="card-container" id="additionalCards">
+            <!-- Additional cards will be added here dynamically -->
+        </div>
+        
+        <script src="App.js"></script>
+
+    </body>
 </html>

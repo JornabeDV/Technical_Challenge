@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
-  let page = 1; // Número de página actual
-  const cardsPerPage = 20; // Cantidad de tarjetas por página
+  let page = 1;
+  const cardsPerPage = 20;
 
   function obtenerDatosYGenerarTarjetas(page) {
     const apiUrl = `https://rickandmortyapi.com/api/character?page=${page}`;

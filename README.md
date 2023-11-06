@@ -2,6 +2,8 @@
 
 https://technical-challenge-jorgebeja.netlify.app/
 
+<br />
+
 ## **📌TECHNOLOGIES**
 ![Alt text](../Technical_Challenge/assets/tec-1.png)
 ![Alt text](../Technical_Challenge/assets/tec-2.png)

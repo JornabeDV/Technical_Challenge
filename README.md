@@ -12,7 +12,7 @@ https://technical-challenge-jorgebeja.netlify.app/
 ![tec5](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/7bcf0434-0500-42ce-a944-5478f6276efd)
 
 
-# **Tecnical Challenge** 
+# **Technical Challenge** 
 
 This project consists of using JavaScript to access data from an external API and SASS to design the interface. 
 Data is processed and displayed dynamically in the application.

@@ -5,8 +5,8 @@ https://technical-challenge-jorgebeja.netlify.app/
 <br />
 
 ## **📌TECHNOLOGIES**
-![Alt text](./ass![image](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/036c76b7-3b2c-4df7-b7c8-bd2716aa66bb)
-ets/tec1.png)
+![image](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/fc2c992d-c394-4a49-b79f-45ab94e47ece)
+
 ![Alt text](./assets/tec2.png)
 ![Alt text](./assets/tec3.png)
 ![Alt text](./assets/tec4.png)

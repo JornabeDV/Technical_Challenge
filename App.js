@@ -61,14 +61,12 @@ document.addEventListener("DOMContentLoaded", function () {
         console.error('Error al obtener datos de la API:', error);
       });
   }
-
-  // Llama a la función para cargar las primeras 20 tarjetas al cargar la página
+  
   obtenerDatosYGenerarTarjetas(page);
 
-  // Agrega un evento al botón "Cargar más"
   const loadMoreButton = document.getElementById('loadMore');
   loadMoreButton.addEventListener('click', () => {
-    page++; // Incrementa el número de página
+    page++; 
     obtenerDatosYGenerarTarjetas(page);
   });
 });

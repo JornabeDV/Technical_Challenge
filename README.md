@@ -2,12 +2,14 @@
 
 https://technical-challenge-jorgebeja.netlify.app/
 
+<br />
+
 ## **📌TECHNOLOGIES**
-![Alt text](../Technical_Challenge/assets/tec1.png)
-![Alt text](../Technical_Challenge/assets/tec2.png)
-![Alt text](../Technical_Challenge/assets/tec3.png)
-![Alt text](../Technical_Challenge/assets/tec4.png)
-![Alt text](../Technical_Challenge/assets/tec5.png)
+![Alt text](./assets/tec1.png)
+![Alt text](./assets/tec2.png)
+![Alt text](./assets/tec3.png)
+![Alt text](./assets/tec4.png)
+![Alt text](./assets/tec5.png)
 
 # **Rick And Morty** 
 

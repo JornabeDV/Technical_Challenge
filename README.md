@@ -10,7 +10,8 @@ https://technical-challenge-jorgebeja.netlify.app/
 ![tec3](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/1b5ff9ea-f171-4933-8099-8e9bfbc4c92e)
 ![tec4](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/9f0d266c-1270-4284-b6f7-ce32d585ddb1)
 ![tec5](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/7bcf0434-0500-42ce-a944-5478f6276efd)
-![image](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/21b56cc5-25b2-4ba5-917c-1939fb5d560f)
+![sass](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/e717284c-e0cc-487f-8593-e7a6a7b1228f)
+
 
 
 # **Rick And Morty** 

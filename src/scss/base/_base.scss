@@ -49,10 +49,13 @@ h1 {
     padding-bottom: 20px;
     letter-spacing: 4px;
     @include tablet {
-        font-size: 70px;
+        font-size: 60px;
         padding: 10%;
     }
     @include laptop {
+        font-size: 80px;
+    }
+    @include desktop {
         font-size: 90px;
     }
 }

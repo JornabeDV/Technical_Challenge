@@ -1,11 +1,18 @@
 .logo {
-    padding: 10px 10px 10px 30px;
+    padding: 10px 10px 10px 10px;
     max-height: 60px;
     max-width: auto;
+    @include tablet {
+        padding: 10px 10px 10px 30px;
+    }
+
 }
 
 .detailNav {
     display: flex;
     align-items: center;
-    padding-right: 30px;
+    padding-right: 10px;
+    @include tablet {
+        padding-right: 30px;
+    }
 }

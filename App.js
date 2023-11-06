@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
         
         data.results.forEach((character) => {
           const card = document.createElement('div');
+
           let statusCircleClass = '';
 
           switch (character.status) {
@@ -47,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     <p class="space"> - </p>
                     <p class="specie">${character.species}</p>
                   </div>
-                  <img class="imgPin" src="./Assets/Pin.png" alt="Pin">
+                  <img class="imgPin" src="./assets/Pin.png" alt="Pin">
                     <p class="origin">${character.origin.name}</p>
                 </div>
               </div>

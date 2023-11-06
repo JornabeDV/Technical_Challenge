@@ -5,12 +5,11 @@ https://technical-challenge-jorgebeja.netlify.app/
 <br />
 
 ## **📌TECHNOLOGIES**
-![image](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/fc2c992d-c394-4a49-b79f-45ab94e47ece)
-
-![Alt text](./assets/tec2.png)
-![Alt text](./assets/tec3.png)
-![Alt text](./assets/tec4.png)
-![Alt text](./assets/tec5.png)
+![Alt text]![tec1](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/076c0ae6-3d01-4a17-bff7-3189fdebeb42))
+![Alt text](![tec2](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/d9800fb2-6a48-4151-b406-8c8a3573f6e4))
+![Alt text](![tec3](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/1b5ff9ea-f171-4933-8099-8e9bfbc4c92e))
+![Alt text](![tec4](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/9f0d266c-1270-4284-b6f7-ce32d585ddb1))
+![Alt text](![tec5](https://github.com/JornabeDV/Tecnical_Challenge/assets/103864663/7bcf0434-0500-42ce-a944-5478f6276efd))
 
 # **Rick And Morty** 
 

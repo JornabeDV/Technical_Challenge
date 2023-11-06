@@ -19,7 +19,7 @@
     @include desktopXL {
       grid-template-columns: repeat(3, 1fr);
       margin: auto;
-      max-width: 70%;
+      max-width: 50%;
       display: grid;
       justify-content: center;
     }
@@ -61,8 +61,8 @@
   
       .name {
         text-align: left;
-        padding: 8px 80px 5px 20px;
-        font-size: 30px;
+        padding: 8px 80px 10px 20px;
+        font-size: 28px;
         font-weight: 600;
         color: $white;
         white-space: nowrap;

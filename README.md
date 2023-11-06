@@ -3,11 +3,11 @@
 https://technical-challenge-jorgebeja.netlify.app/
 
 ## **📌TECHNOLOGIES**
-![Alt text](./assets/tec-1.png)
-![Alt text](./assets/tec-2.png)
-![Alt text](./assets/tec-3.png)
-![Alt text](./assets/tec-4.png)
-![Alt text](./assets/tec-5.png)
+![Alt text](../Technical_Challenge/assets/tec-1.png)
+![Alt text](../Technical_Challenge/assets/tec-2.png)
+![Alt text](../Technical_Challenge/assets/tec-3.png)
+![Alt text](../Technical_Challenge/assets/tec-4.png)
+![Alt text](../Technical_Challenge/assets/tec-5.png)
 
 <br />
 
